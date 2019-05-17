@@ -1,4 +1,4 @@
 Đến cả thằng đạt cũng hiểu được lệnh Git 
 add: minh la mot nguoi dep trai
-add: kiem tra loi merge lan 2
+commit: Luu lai trang thai cua index
 
