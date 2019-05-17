@@ -1,5 +1,2 @@
 Đến cả thằng đạt cũng hiểu được lệnh Git 
-add: minh la mot nguoi dep trai
-commit: Luu lai trang thai cua index
-pull: Lay noi dung cua remote repository
 
