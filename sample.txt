@@ -1,4 +1,4 @@
 Đến cả thằng đạt cũng hiểu được lệnh Git 
 add: Dang ky thay doi trong index
-
+commit: Luu lai trang thai cua index
 
