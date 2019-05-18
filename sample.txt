@@ -4,4 +4,4 @@ add: Dang ky thay doi trong index
 commit: Lưu lại trạng thía của index
 pull: Lấy nội dung của remote repository
 test: local
-
+minh dep trai
